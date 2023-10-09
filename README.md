@@ -1,1 +1,1 @@
-VulcanSpot has moved. Please use https://gitlab.com/bu_cnio/vulcanspot instead.
+VulcanSpot has moved. Please use [https://github.com/cnio-bu/vulcanspot](https://github.com/cnio-bu/vulcanspot) instead.
